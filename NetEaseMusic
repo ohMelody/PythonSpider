@@ -22,5 +22,5 @@ RES：
 最热评论点赞数：likedCount
 
 
-
+{"logs":"[{\"action\":\"searchkeywordclient\",\"json\":{\"type\":\"song\",\"keyword\":\"drake\",\"offset\":0}}]","csrf_token":""}
 
